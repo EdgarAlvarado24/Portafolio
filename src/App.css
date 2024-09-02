@@ -1,0 +1,169 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+body{
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+body > div{
+  display: flex;
+}
+
+.main-left{
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  background: #1f2f3e;
+}
+
+.main-right{
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  background: #eedec7;
+}
+
+.border-page{
+  position: relative;
+  z-index: 1;
+
+}
+.content-page{
+  display: flex;
+  width:80vh;
+}
+
+/* .content-page > *{
+} */
+
+.profile-img{
+  background: #4f9ec2;
+  align-items: center;
+  display: flex;
+}
+.format-text{
+  color: #1f2f3e;
+  text-align: justify;
+  background-color: #fff4e1;
+  padding: 10% 5% 10% 5%;
+}
+
+/* .format-text > h1{
+  padding: 0;
+  margin: 0;
+  right: 12rem;
+  position: fixed;
+}
+
+.format-text > p{
+  padding: 0;
+  margin: 0;
+  right: 12rem;
+  position: fixed;
+} */
+
+.format-button{
+  display: flex;
+  justify-content: space-between;
+}
+
+.format-button > button{
+  background: #4d99bd;
+}
+
+.size-content-text{
+  width: 100%;
+  text-align: left;
+}
+
+.format-text > .subtitle{
+  font-size: 34px;
+}
+
+.content-form{
+  width: 100%;
+  background: #fff4e1;
+  padding: 1rem;
+}
+
+.border-form{
+  border-radius: 10px;
+  background:#22759b;
+}
+
+.color-skin-title{
+  color: #fff4e1;
+}
+
+.border-color-skin{
+  background:#22759b;
+  padding: 1vh 1rem 1vh 1rem;
+}
+
+.color-skin{
+  color: black;
+  background: #fff4e1;
+  border-radius: 5px;
+  text-align: left;
+  padding: 1rem;
+  width: 20%;
+  z-index: 1;
+}
+
+.color-skin-line{
+  color: black;
+  background: #fff4e1;
+  border-radius: 5px;
+  text-align: left;
+  padding: 1rem;
+}
+
+
+
