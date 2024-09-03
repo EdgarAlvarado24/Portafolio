@@ -77,7 +77,7 @@ body > div{
 }
 .content-page{
   display: flex;
-  width:80vh;
+  width:100vh;
 }
 
 /* .content-page > *{
@@ -116,6 +116,7 @@ body > div{
 
 .format-button > button{
   background: #4d99bd;
+  border-radius: 20px;
 }
 
 .size-content-text{
@@ -165,5 +166,20 @@ body > div{
   padding: 1rem;
 }
 
+.border-form  *{
+  margin:  1rem 0rem 1rem 0rem;
+  padding: 1rem 0rem 1rem 0rem;
+  color: white;
+}
 
-
+.border-form input{
+  background: white;
+  color: #1f2f3e;
+  border: none;
+  border-radius: 20px;
+  margin:  1rem 0.5rem 1rem 0.5rem;
+  padding: 1rem 0rem 1rem 0rem;
+  width: 90%;
+  text-align: left;
+  text-indent: 1rem;
+}

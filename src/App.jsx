@@ -34,20 +34,18 @@ function App() {
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est debitis neque cumque voluptatum quod ex sint nihil rem autem, nobis qui aspernatur ratione illo deserunt quas, cum aliquam perspiciatis eaque?
             </p>
+            <div className='format-button'>
+              <button>ver mas</button>
+            </div>
           </div>
           <div className='content-form'>
             <div className='border-form'>
              <form action="">
-                <h2 className='color-skin-title'>Welcome</h2>
-                <div className='border-color-skin'>
-                  <p className='color-skin'>nombre</p>
-                </div>
-                <label></label>
-                <div className='border-color-skin'>
-                  <p className='color-skin'>apellido</p>
-                  <p className='color-skin-line'></p>
-                </div>
-                <label></label>
+              <h1>Bienvenido</h1>
+                <input type='text' placeholder='Nombre Completo'/>
+                <input type='text' placeholder='Correo Electronico'/>
+                <input type='text' placeholder='Usuario'/>
+                <input type='text' placeholder='Contraseña'/>
               </form>
             </div>
           </div>
