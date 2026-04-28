@@ -31,11 +31,11 @@ App que consume la API publica de peliculas. Filtro de busqueda y sistema de mas
 `Javascript` `HTML` `CSS`
 
 ### [📝 Peluqueria - Aplicacion web](https://github.com/EdgarAlvarado24/peluqueria)
-### [📝 ChatBot - Reserva de citas atraves de bot de telegram](https://github.com/EdgarAlvarado24/bot-peluqueria)
-Aplicación web + bot de telegram para gestión automatizada de una peluquería (turnos, clientes y recordatorios).
 `PHP` `Javascript` `CSS`
 
-> 👉 **[Ver portafolio en vivo](https://tudominio.com)** (link a la demo desplegada)
+### [📝 ChatBot - Reserva de citas atraves de bot de telegram](https://github.com/EdgarAlvarado24/bot-peluqueria)
+Aplicación web + bot de telegram para gestión automatizada de una peluquería (turnos, clientes y recordatorios).
+`PHP`
 
 ## 📈 Algunos datos de mi trabajo
 
