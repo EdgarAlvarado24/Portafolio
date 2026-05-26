@@ -57,7 +57,15 @@ const ProjectsSection = () => {
         demoUrl: '',
           codeUrl: 'https://github.com/EdgarAlvarado24/pago-movil-automator'
 
-}
+},
+{
+  title: 'LunaGurt-PAGE',
+    desc: 'Aplicación web para pedidos de yogurt artesanal con flujo secuencial de compra.',
+      technologies: ['Javascript','CSS', 'HTML'],
+        demoUrl: 'https://lunagurt-page.vercel.app/',
+          codeUrl: 'https://github.com/EdgarAlvarado24/lunagurt-page'
+
+},
   ];
 
 const projectDescs = {
