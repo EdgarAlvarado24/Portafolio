@@ -41,6 +41,22 @@ const ProjectsSection = () => {
         demoUrl: '',
           codeUrl: 'https://github.com/EdgarAlvarado24/ecommerce-project'
 
+},
+{
+  title: 'Price-Monitor',
+    desc: 'Monitor de tasas de cambio para Venezuela. Consulta el Dólar BCV, Euro BCV y USDT P2P en tiempo real, con calculadora de conversión y análisis histórico.',
+      technologies: ['Typescript','Javascript', 'Shell'],
+        demoUrl: '',
+          codeUrl: 'https://github.com/EdgarAlvarado24/price-monitor'
+
+},
+{
+  title: 'Pago movil Automator',
+    desc: 'Automatiza el registro de tus Pagos Móviles mediante un Capture en Google Sheets.',
+      technologies: ['Javascript'],
+        demoUrl: '',
+          codeUrl: 'https://github.com/EdgarAlvarado24/pago-movil-automator'
+
 }
   ];
 
