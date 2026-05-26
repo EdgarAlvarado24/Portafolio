@@ -35,9 +35,9 @@ const ProjectsSection = () => {
           codeUrl: 'https://github.com/EdgarAlvarado24/movie_app'
 },
 {
-  title: 'E-commerce React',
+  title: 'E-commerce',
     desc: 'Tienda online con carrito,pasarela de pagos simulada y administrador de inventario',
-      technologies: ['React', 'Node.js', 'SQLite3'],
+      technologies: ['Javascript', 'CSS', 'HTML'],
         demoUrl: '',
           codeUrl: 'https://github.com/EdgarAlvarado24/ecommerce-project'
 
